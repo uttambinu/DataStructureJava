@@ -4,6 +4,7 @@ public class Runner {
         list.insert(5);
         list.insert(10);
         list.insert(15);
+        list.insert(41);
         list.show();
 
         System.out.println("Insert......");
